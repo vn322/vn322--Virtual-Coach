@@ -1,0 +1,9 @@
+PyQt5
+opencv-python
+mediapipe
+numpy
+pandas
+scipy
+fastdtw
+reportlab
+matplotlib
